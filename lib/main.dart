@@ -9,7 +9,6 @@ import 'package:ildiz_kitoblari/pages/splash_screen.dart';
 import 'package:ildiz_kitoblari/resource/srting.dart';
 import 'controllers/get_controller.dart';
 
-
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await GetStorage.init();

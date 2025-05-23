@@ -2,7 +2,7 @@ name: ildiz_kitoblari
 description: "A new Flutter project."
 publish_to: 'none'
 
-version: 1.0.0+6
+version: 1.0.0+7
 
 environment:
   sdk: ^3.7.2
@@ -50,7 +50,10 @@ dependencies:
   flutter_keyboard_visibility: ^6.0.0
   flutter_plugin_android_lifecycle: ^2.0.28
   flutter_epub_viewer: ^1.2.1
+  audioplayers: ^6.0.0
+  audio_service: ^0.18.12
   just_audio: ^0.10.2
+  just_audio_background: ^0.0.1-beta.17
 
 
 dev_dependencies:
